@@ -27,3 +27,10 @@ getUser(input2).then((result) => console.log(result));
 
 // module.exports = getUser;
 export default getUser;
+
+
+/*
+รหัส นศ.: 660612156
+
+ชื่อ-สกุล : วชิรวิทย์ ไชยมาตย์ 
+*/
